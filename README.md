@@ -56,7 +56,7 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1
 The port is in `port/`. `port/tools/gen_offsets.py` rebuilds the game addresses and their guards.
 
 ## Credits
-
+ChanseyIsTheBest: his porting guide and tools.
 Built on [teenytitans_nx](https://github.com/iqbalriz/teenytitans_nx) and
 [dcr_sea_nx](https://github.com/aks796/dcr_sea_nx), with the
 [android32](https://github.com/aks796/android32), [libnx32](https://github.com/aks796/libnx32) and
