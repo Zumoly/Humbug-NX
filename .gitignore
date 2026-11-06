@@ -1,0 +1,9 @@
+dist/
+*.apk
+*.nro
+*.elf
+*.zip
+*.log
+work/
+work/
+third_party/

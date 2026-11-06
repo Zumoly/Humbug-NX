@@ -1,0 +1,20 @@
+*~
+*.o
+*.bz2
+*.nro
+*.nso
+*.elf
+*.npdm
+*.pfs0
+Thumbs.db
+.*/
+!.github/
+debug/
+release/
+lib/
+docs/
+compile_commands.json
+.clangd
+
+# thirtytwo: the installed build (build_libnx32.sh)
+/prefix/
